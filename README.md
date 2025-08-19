@@ -1,6 +1,8 @@
 # Encrypt and Share files or message
 Securely share your important documents! End-to-end encryption is done on the browser side. Take advantage of sending the link and password through one or two independent channels
 
+<img width="1040" height="597" alt="image" src="https://github.com/user-attachments/assets/cdc0d304-4805-4f87-9d17-b4fed16872b0" />
+
 
 ## Core features 
 ### End-to-End Encryption
